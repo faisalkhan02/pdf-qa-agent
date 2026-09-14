@@ -2,6 +2,6 @@ streamlit
 pymupdf
 faiss-cpu
 numpy
-google-generativeai
+google-genai
 python-dotenv
 sentence-transformers
